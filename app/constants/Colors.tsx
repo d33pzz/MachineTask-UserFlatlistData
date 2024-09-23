@@ -1,0 +1,21 @@
+// DEFAULT COLORS
+export const PUREWHITE = "#fff"
+export const PUREBLACK = "#000"
+
+// TEXT COLORS
+export const SECONDARYTEXTCOLOR = "#555"
+
+
+// BORDERCOLORS
+export const PRIMARYBORDERCOLOR = "#ddd"
+export const SECONDARYBORDERCOLOR = "#ccc"
+
+// BACKGROUNDCOLORS
+export const BACKGROUNDCOLOR = "#f0f4f8"
+
+// INDICATORCOLORS
+export const ACTIVITYINDICATORCLR = "#0000ff"
+
+// ICONCOLORS
+export const PRIMARYICONCOLOR = "#555"
+export const SECONDARYICONCOLOR = "#999"
